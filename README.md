@@ -1,5 +1,6 @@
 # Welcom to my page 👋
-My name is Vladislav. I'm from Russia. I am a beginner full stack developer. I really enjoy writing code in Python.
+
+👨‍💻 My name is Vladislav, I am 28 years old. I am a beginner full-stack developer. I don't have any special achievements or outstanding projects at the moment, but every day I'm one step closer to my dream. I really enjoy writing code in Python.
 
 ## GitHub stats
 
