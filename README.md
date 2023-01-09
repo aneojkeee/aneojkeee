@@ -1,6 +1,6 @@
 # Welcom to my page 👋
 
-👨‍💻 My name is Vladislav, I am 28 years old. I am a beginner full-stack developer. I am currently studying to become a high-class programmer. At the moment I have no special achievements or outstanding projects, but I work on it every day. I really enjoy writing code in Python.
+👨‍💻 My name is Vladislav, I am 28 years old. I am a beginner full-stack developer. I am currently studying to become a high-class programmer. At the moment I don't have any special achievements or outstanding projects, but there are still some things in my portfolio. I really enjoy writing code in Python.
 
 ## GitHub stats
 
