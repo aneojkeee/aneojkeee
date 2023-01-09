@@ -1,12 +1,9 @@
 # Welcom to my page 👋
-## Full stack and web development
 My name is Vladislav. I'm from Russia. I am a beginner full stack developer. I really enjoy writing code in Python.
-### Skills and Experience
-PYTHON
-JS / HTML / CSS
+## Skills and Experience
+* 🐍 PYTHON
+* 💻 JS / HTML / CSS
 
-
-- 🔭 I’m currently working on this page. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneojkeee)](https://github.com/anuraghazra/github-readme-stats)
 
